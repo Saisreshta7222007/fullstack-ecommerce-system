@@ -1,0 +1,6 @@
+Product: testing name, Image Type: Array, Image Value: ["https://res.cloudinary.com/dtdyqsgnv/image/upload/v1774675743/b9ei88ty6958mjygidtl.png","https://res.cloudinary.com/dtdyqsgnv/image/upload/v1774675743/t1rch8esceyyhei3pkwf.png","https://res.cloudinary.com/dtdyqsgnv/image/upload/v1774675743/bwvhpxtgx5dxrkvawmvy.png","https://res.cloudinary.com/dtdyqsgnv/image/upload/v1774675743/r5x03xivv1zkg3ubtzhp.png"]
+Product: testing name, Image Type: Array, Image Value: []
+Product: testing name, Image Type: Array, Image Value: []
+Product: Testing product, Image Type: Array, Image Value: ["https://res.cloudinary.com/dtdyqsgnv/image/upload/v1775111553/v6bbmjkiawzcrwcnbgo5.png"]
+Product: Testing product, Image Type: Array, Image Value: ["https://res.cloudinary.com/dtdyqsgnv/image/upload/v1775111554/s4npo5ot5eongmx1brca.png"]
+Product: Testing product, Image Type: Array, Image Value: ["https://res.cloudinary.com/dtdyqsgnv/image/upload/v1775111554/uwxm71kpemwu5gqz1wme.png"]

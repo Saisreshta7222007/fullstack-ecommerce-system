@@ -1,0 +1,65 @@
+﻿node : file:///C:/Users/S
+ai%20Sreshta/Desktop/ecom
+merce%20app/backend/contr
+ollers/orderController.js
+:40
+At line:1 char:1
++ node server.js 2>&1 | 
+Out-File -Encoding utf8 
+out-utf8.txt
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo       
+       : NotSpecified:   
+  (file:///C:/User...o   
+ ntroller.js:40:Strin    
+g) [], RemoteExcepti    
+on
+    + FullyQualifiedErro 
+   rId : NativeCommandE  
+  rror
+ 
+import Razorpay from 
+'razorpay'
+^^^^^^^^^^^^^^^
+
+SyntaxError: Identifier 
+'Razorpay' has already 
+been declared
+    at 
+compileSourceTextModule (
+node:internal/modules/esm
+/utils:318:16)
+    at ModuleLoader.modul
+eStrategy (node:internal/
+modules/esm/translators:9
+9:18)
+    at #translate (node:i
+nternal/modules/esm/loade
+r:473:20)
+    at afterLoad (node:in
+ternal/modules/esm/loader
+:529:29)
+    at ModuleLoader.loadA
+ndTranslate (node:interna
+l/modules/esm/loader:534:
+12)
+    at #getOrCreateModule
+JobAfterResolve (node:int
+ernal/modules/esm/loader:
+577:36)
+    at afterResolve (node
+:internal/modules/esm/loa
+der:625:52)
+    at ModuleLoader.getOr
+CreateModuleJob (node:int
+ernal/modules/esm/loader:
+631:12)
+    at 
+ModuleJob.syncLink (node:
+internal/modules/esm/modu
+le_job:160:33)
+    at ModuleJob.link (no
+de:internal/modules/esm/m
+odule_job:245:17)
+
+Node.js v24.14.0

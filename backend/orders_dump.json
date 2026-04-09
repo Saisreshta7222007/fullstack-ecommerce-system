@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "69d616faa3cd2ad08e6ce88b",
+    "userId": "69d0b616c558a149058c50c0",
+    "items": [
+      {
+        "_id": "69d0a534bc743fa1b6d67273",
+        "name": "Women Round Neck Cotton Top",
+        "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        "price": 130,
+        "image": [
+          "https://res.cloudinary.com/dtdyqsgnv/image/upload/v1775281460/docijg2qz6ixkv6xzmur.png"
+        ],
+        "category": "Women",
+        "subCategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "bestseller": false,
+        "date": 1716625545448,
+        "__v": 0,
+        "size": "S",
+        "quantity": 1
+      },
+      {
+        "_id": "69d0a52cbc743fa1b6d67261",
+        "name": "Men Round Neck Pure Cotton T-shirt",
+        "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        "price": 110,
+        "image": [
+          "https://res.cloudinary.com/dtdyqsgnv/image/upload/v1775281452/p1twfubi5wkdtwcz2428.png"
+        ],
+        "category": "Men",
+        "subCategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "bestseller": true,
+        "date": 1716621345448,
+        "__v": 0,
+        "size": "M",
+        "quantity": 1
+      },
+      {
+        "_id": "69d0a540bc743fa1b6d6728f",
+        "name": "Girls Round Neck Cotton Top",
+        "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+        "price": 200,
+        "image": [
+          "https://res.cloudinary.com/dtdyqsgnv/image/upload/v1775281472/hzbcymvxjciye5ubf45c.png"
+        ],
+        "category": "Kids",
+        "subCategory": "Topwear",
+        "sizes": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "bestseller": false,
+        "date": 1716640945448,
+        "__v": 0,
+        "size": "S",
+        "quantity": 1
+      }
+    ],
+    "amount": 2250,
+    "address": {
+      "firstName": "Great",
+      "lastName": "Stack",
+      "email": "admin@demo.com",
+      "street": "main street",
+      "city": "demo city",
+      "state": "demo state",
+      "zipcode": "123456",
+      "country": "India",
+      "phone": "09618577227"
+    },
+    "status": "Order Placed",
+    "paymentMethod": "COD",
+    "payment": false,
+    "date": 1775638266878,
+    "__v": 0
+  }
+]
