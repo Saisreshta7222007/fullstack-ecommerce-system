@@ -10,7 +10,7 @@ const ShopContextProvider=(props)=>{
   const currency = '₹';
   const priceMultiplier = 5;
   const delivery_fee = 10 * priceMultiplier;
-  const backendUrl = import.meta.env.VITE_BACKEND_URL?.trim() || 'http://localhost:4000';
+  const backendUrl = import.meta.env.VITE_BACKEND_URL?.trim() || 'https://forevercart-next-gen-shopping-platform.onrender.com';
   const [search,setSearch] = useState('');
   const [showSearch, setShowSearch] = useState(false);
   const [cartItems, setCartItems] = useState({});
